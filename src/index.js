@@ -149,7 +149,7 @@
       scene.add(collectible);
   }
   
-  // ==================== LIGHTING ====================
+  // =================== LIGHTING ====================
   const ambientLight = new THREE.AmbientLight(0x4040ff, 0.3);
   scene.add(ambientLight);
   
